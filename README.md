@@ -9,5 +9,7 @@ Projetar tendências futuras para a paridade na indústria cinematográfica.
 
 Tecnologias e Metodologia:
   A análise foi construída utilizando o ecossistema de dados do Python:
+  
     - Manipulação de Dados: Pandas e NumPy.Visualização:Matplotlib e Seaborn (Gráficos Stacked Area, Barras Comparativas e Séries     Temporais).
+    
     - Métrica Principal: Índice de Diversidade de Simpson ($D = 1 - \sum p_i^2$), utilizado para medir a probabilidade de dois indivíduos pertencerem a grupos diferentes.
